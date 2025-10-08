@@ -188,7 +188,7 @@ const Index = () => {
           <h2 className="text-3xl md:text-4xl font-playfair font-bold text-center text-foreground mb-8">5 yılın özeti 💞</h2>
           <div className="bg-card/80 backdrop-blur-md rounded-3xl shadow-2xl p-4 md:p-6">
             <div className="relative w-full pb-[56.25%] overflow-hidden rounded-xl shadow-lg">
-              <iframe src="https://drive.google.com/file/d/1p3hf1PSqwU_BF8eXE1DRaOXlZZNQ0hm-/preview" className="absolute top-0 left-0 w-full h-full" allow="autoplay" allowFullScreen></iframe>
+              <iframe src="https://drive.google.com/file/d/1rpknD13T6NP-n44xk_wTae6MmAT87etx/preview" className="absolute top-0 left-0 w-full h-full" allow="autoplay" allowFullScreen></iframe>
             </div>
           </div>
           <div className="text-center space-y-4 pt-8">
