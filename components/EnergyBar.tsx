@@ -45,7 +45,7 @@ export default function EnergyBar({ position }: EnergyBarProps) {
 
             {/* Position indicator */}
             <motion.div
-                className="absolute top-1/2 h-12 w-2 bg-white rounded-full transform -translate-y-1/2"
+                className="absolute top-1/2 h-12 w-2 bg-white rounded-full transform -translate-y-1/2 -translate-x-1/2"
                 style={{
                     left: `${position}%`,
                     boxShadow: '0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6)',

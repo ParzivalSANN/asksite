@@ -129,7 +129,7 @@ export default function Victory({ winner }: VictoryProps) {
                                 ease: 'linear',
                             }}
                         >
-                            İYİ Kİ DOĞDUNUZ KRALLAR! 🎉
+                            İYİ Kİ DOĞDUNUZ BÜLLÜKLERİNE KURBANLAR! 🎉
                         </motion.h1>
 
                         <motion.div
@@ -142,7 +142,7 @@ export default function Victory({ winner }: VictoryProps) {
                                 Kazanan hediyeyi kapar ama kardeşlik baki kalır.
                             </p>
                             <p className="text-2xl md:text-3xl font-orbitron font-bold mt-4 bg-gradient-to-r from-kaan to-kadir bg-clip-text text-transparent">
-                                Doğum gününüz kutlu olsun Kaan & Kadir! 🎂
+                                Doğum gününüz kutlu olsun yavrular,Nice beraber Yıllara Kaan & Kadir! 🎂
                             </p>
                         </motion.div>
 
